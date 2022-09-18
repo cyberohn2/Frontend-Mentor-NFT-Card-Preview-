@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Outfit&family=Raleway&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -15,6 +16,7 @@
 .container{
     background: hsl(216, 50%, 16%);
     width: 300px;
+    font-family: 'Outfit', sans-serif;
     display:flex;
     flex-direction: column;
     justify-content: center;
